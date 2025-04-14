@@ -1,4 +1,4 @@
-# 👨‍💻 Full-Stack .NET Developer Resume
+# 👨‍💻 Senior Full-Stack .NET Developer CV
 
 ## 📌 Summary
 
